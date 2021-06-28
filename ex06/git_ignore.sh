@@ -1,1 +1,1 @@
-find . -name "*" -exec git check-ignore {} \;
+git ls-files -oxi
