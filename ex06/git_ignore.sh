@@ -1,1 +1,1 @@
-git ls-files -oxi
+git ls-files -io --exlude-others
